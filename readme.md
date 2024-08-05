@@ -3,9 +3,11 @@
 Welcome to **HoliDough**, designed by developed by [Sacha](https://github.com/sacha1995), [Jack](https://github.com/jack-berry), [Zahra](https://github.com/zedvas), and [Manzi](https://github.com/manzi9).
 
 Holigouh is designed to help you plan, budget, and schedule your holidays with ease!
-![splashpage](https://github.com/user-attachments/assets/d12006e7-1d6a-4c11-9416-3b27cba8c4dc)
-![splashpage344x449](https://github.com/user-attachments/assets/132669da-d706-43ae-969e-379d3f45d871)
 
+![splashpage344x449](https://github.com/user-attachments/assets/9eb73cfc-a74c-4f66-b599-b2365dff9b1d)
+![loginpage](https://github.com/user-attachments/assets/533fb8e9-e991-4e22-b66f-83dc58c4d3a7)
+![statement](https://github.com/user-attachments/assets/c6c4dadc-7e69-43b1-97df-4bbed23ca60f)
+![graph](https://github.com/user-attachments/assets/e9078ffe-875b-4ecf-9d21-6f7023cbec0f)
 
 ## Table of Contents
 
