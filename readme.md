@@ -4,6 +4,8 @@ Welcome to **HoliDough**, designed by developed by [Sacha](https://github.com/sa
 
 Holigouh is designed to help you plan, budget, and schedule your holidays with ease!
 
+![HoliDough Splash Screen](https://pasteboard.co/Xm8ZaNdupL60.png)
+
 ## Table of Contents
 
 - [Features](#features)
