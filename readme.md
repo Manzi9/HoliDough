@@ -3,8 +3,8 @@
 Welcome to **HoliDough**, designed by developed by [Sacha](https://github.com/sacha1995), [Jack](https://github.com/jack-berry), [Zahra](https://github.com/zedvas), and [Manzi](https://github.com/manzi9).
 
 Holigouh is designed to help you plan, budget, and schedule your holidays with ease!
+![splashpage](https://github.com/user-attachments/assets/d12006e7-1d6a-4c11-9416-3b27cba8c4dc)
 
-![HoliDough Splash Screen](https://pasteboard.co/Xm8ZaNdupL60.png)
 
 ## Table of Contents
 
