@@ -130,7 +130,7 @@ const Login = () => {
           placeholder="password"
           className="logsign-input"
           onKeyDown={(e) => {
-            if (e.key === "Enter" && !errors.lenght) {
+            if (e.key === "Enter" && !errors.length) {
               onSubmit();
             }
           }}
@@ -146,7 +146,7 @@ const Login = () => {
         />
 
         <p className="signup-text">
-          Don't have an account? <a href="/signup"> Sign up! </a>
+          Don't have an account? <a onClick={()=> redirect("/signup")}> Sign up! </a>
         </p>
       </div>
     </>
